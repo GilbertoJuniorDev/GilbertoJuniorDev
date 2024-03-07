@@ -1,7 +1,21 @@
 ## Olá eu sou a Gilberto Junior , Estudante de programação e tecnologia!
 ##
 #### Sou atualmente estudante do Instituto Federal da Bahia, onde curso ensino médio integrado com técnico em informática!
-#### Trabalho com tecnologias de desenvolvimento WEB, mas me aprofundando em desenvolvimento mobile!
+#### Desenvolvedor fullstack, especialista no ecossistema Javascript, mais especificamente, tecnologias como Typescript, React, Node, entre outras. Gosto de desafios e, principalmente, aprender. Sou focado em resultados e em desenvolver soluções enriquecedoras que agreguem e façam sentido para seus respectivos objetivos.
+
+✔️ React.js com Typescript
+✔️ CSS-In-JS, bibliotecas de componentes (Material UI, Chakra, etc..) e CSS Frameworks (SASS, Tailwind, etc..).
+✔️ Gerenciamento de estado global (Redux, Redux Toolkit, Context API e Zustand).
+✔️ APIs REST (Node.js com NestJS e/ou Express).
+✔️ Testes unitários e de integração (Jest).
+✔️ Object-Relational Mapping (Prisma e TypeORM).
+✔️ Docker containers e Amazon EC2.
+✔️ Banco de dados SQL e NoSQL (MySQL, PostgreSQL e MongoDB).
+✔️ Experiência em trabalho remoto e metodologias ágeis (SCRUM e Kanban).
+
+Github: https://github.com/junimcria
+
+React | Typescript | Next.js | Node.js | Express | PHP | SCRUM
 <div align="left">
  <picture>
 <img src="https://github-readme-stats.vercel.app/api?username=JunimCria&theme=highcontrast&show_icons=true&"/>
