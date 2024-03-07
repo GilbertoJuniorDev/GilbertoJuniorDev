@@ -14,7 +14,7 @@
 #### ✔️ Experiência em trabalho remoto e metodologias ágeis (SCRUM e Kanban).
 
 
-###React | Typescript | Next.js | Node.js | Express | PHP | SCRUM
+### React | Typescript | Next.js | Node.js | Express | PHP | SCRUM
 <div align="left">
  <picture>
 <img src="https://github-readme-stats.vercel.app/api?username=JunimCria&theme=highcontrast&show_icons=true&"/>
@@ -30,7 +30,6 @@
   <img align="center" alt="JunimCria-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JunimCria-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="JunimCria-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944596639287509010/1062760290795671604/image_1-removebg.png?width=814&height=683">
 </div>
   
   ##
