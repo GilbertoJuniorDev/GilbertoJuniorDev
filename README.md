@@ -29,7 +29,7 @@
   <img align="center" alt="JunimCria-Jq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="JunimCria-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JunimCria-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="JunimCria-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img align="center" alt="JunimCria-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/react-original.svg" />
+  <img align="center" alt="JunimCria-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img align="center" alt="JunimCria-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  
 </div>
   
