@@ -17,9 +17,9 @@
 ### React | Typescript | Next.js | Node.js | Express | PHP | SCRUM
 <div align="left">
  <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=JunimCria&theme=highcontrast&show_icons=true&"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GilbertoJuniorDev&theme=highcontrast&show_icons=true&"/>
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunimCria&layout=compact&theme=highcontrast&"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoJuniorDev&layout=compact&theme=highcontrast&"> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JunimCria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
