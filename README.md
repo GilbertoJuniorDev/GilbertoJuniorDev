@@ -14,7 +14,7 @@
 #### ✔️ Experiência em trabalho remoto e metodologias ágeis (SCRUM e Kanban).
 
 
-### React | Typescript | Next.js | Node.js | Express | PHP | SCRUM
+### Full-Stack Developer | React | Typescript | Next.js | Node.js | Express | JAVA | C# | C++ | PHP | Administrador de Redes
 <div align="left">
  <picture>
 <img src="https://github-readme-stats.vercel.app/api?username=GilbertoJuniorDev&theme=highcontrast&show_icons=true&"/>
