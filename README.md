@@ -1,6 +1,7 @@
 ## Olá eu sou a Gilberto Junior , Estudante de programação e tecnologia!
 ##
-#### Sou atualmente estudante do Instituto Federal da Bahia, onde curso ensino médio integrado com técnico em informática!
+#### Sou atualmente estudante do Instituto Federal da Bahia, onde curso Bacharelado em Sistemas de Informação!
+#### Sou também formado pelo Instituto Federal da Bahia como Técnico em Informática!
 #### Desenvolvedor fullstack, especialista no ecossistema Javascript, mais especificamente, tecnologias como Typescript, React, Node, entre outras. Gosto de desafios e, principalmente, aprender. Sou focado em resultados e em desenvolver soluções enriquecedoras que agreguem e façam sentido para seus respectivos objetivos.
 
 #### ✔️ React.js com Typescript
