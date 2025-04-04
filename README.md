@@ -14,6 +14,7 @@
 #### ✔️ Banco de dados SQL e NoSQL (MySQL, PostgreSQL e MongoDB).
 #### ✔️ Experiência em trabalho remoto e metodologias ágeis (SCRUM e Kanban).
 
+####Possuo também profundo conhecimento em outras tecnologias, com C#, PHP e JAVA.
 
 ### Full-Stack Developer | React | Typescript | Next.js | Node.js | Express | JAVA | C# | C++ | PHP | Administrador de Redes
 <div align="left">
