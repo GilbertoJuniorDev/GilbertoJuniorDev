@@ -1,45 +1,54 @@
-## Olá eu sou a Gilberto Junior , Estudante de programação e tecnologia!
-##
-#### Sou atualmente estudante do Instituto Federal da Bahia, onde curso Bacharelado em Sistemas de Informação!
-#### Sou também formado pelo Instituto Federal da Bahia como Técnico em Informática!
-#### Desenvolvedor fullstack, especialista no ecossistema Javascript, mais especificamente, tecnologias como Typescript, React, Node, entre outras. Gosto de desafios e, principalmente, aprender. Sou focado em resultados e em desenvolver soluções enriquecedoras que agreguem e façam sentido para seus respectivos objetivos.
+# Olá, eu sou Gilberto Júnior! 👋
 
-#### ✔️ React.js com Typescript
-#### ✔️ CSS-In-JS, bibliotecas de componentes (Material UI, Chakra, etc..) e CSS Frameworks (SASS, Tailwind, etc..).
-#### ✔️ Gerenciamento de estado global (Redux, Redux Toolkit, Context API e Zustand).
-#### ✔️ APIs REST (Node.js com NestJS e/ou Express).
-#### ✔️ Testes unitários e de integração (Jest).
-#### ✔️ Object-Relational Mapping (Prisma e TypeORM).
-#### ✔️ Docker containers e Amazon EC2.
-#### ✔️ Banco de dados SQL e NoSQL (MySQL, PostgreSQL e MongoDB).
-#### ✔️ Experiência em trabalho remoto e metodologias ágeis (SCRUM e Kanban).
+### Software Engineer | Full-Stack Developer | DevOps & Infrastructure Enthusiast
 
-####Possuo também profundo conhecimento em outras tecnologias, com C#, PHP e JAVA.
+Sou um Engenheiro de Software focado em construir soluções robustas, escaláveis e de alta performance. Com uma base sólida em **Sistemas de Informação** e **Técnico em Informática** pelo **Instituto Federal da Bahia**, atuo no ecossistema JavaScript/TypeScript, unindo desenvolvimento de ponta a ponta com gestão de infraestrutura crítica.
 
-### Full-Stack Developer | React | Typescript | Next.js | Node.js | Express | JAVA | C# | C++ | PHP | Administrador de Redes
+---
+
+### 🚀 Sobre mim
+
+* 💻 Atualmente atuando como **Software Engineer na SYSTA**, desenvolvendo ecossistemas digitais complexos e automações inteligentes.
+* 🌐 Especialista em **Infraestrutura e Observabilidade na JFTech**, gerenciando redes WAN/LAN e monitoramento proativo com Zabbix/Grafana.
+* 🛠️ Desenvolvedor do projeto **GED-SYSTA**, uma solução completa de gestão documental utilizando Node.js, React e Prisma.
+* 🧠 Entusiasta de Inteligência Artificial, atuando na integração de agentes autônomos e mentoria técnica.
+
+---
+
+### 🛠️ Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Styled Components |
+| **Backend** | Node.js, Express, NestJS, Prisma ORM, Java, Python, PHP |
+| **Infra & DevOps** | Docker, CI/CD (GitHub Actions), AWS, Nginx, Linux (Ubuntu/Debian) |
+| **Observabilidade** | Zabbix, Grafana, The Dude, Métricas e Logs em tempo real |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoJuniorDev&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoJuniorDev&layout=compact&theme=highcontrast&langs_count=8"/>
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+
 <div align="left">
- <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=GilbertoJuniorDev&theme=highcontrast&show_icons=true&"/>
-</picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoJuniorDev&layout=compact&theme=highcontrast&"> 
+  <a href="https://linkedin.com/in/gilbertojunior-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gilbertojuniorcc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/GilbertoJuniordev">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="JunimCria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JunimCria-FL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="JunimCria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JunimCria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JunimCria-Jq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="JunimCria-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JunimCria-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="JunimCria-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img align="center" alt="JunimCria-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gilbertojuniorcc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gilbertojuniorcc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gilberto-júnior-070a111a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+---
+*"Focado em desenvolver soluções que não apenas funcionam, mas agregam valor real ao negócio."*
